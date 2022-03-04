@@ -1,0 +1,33 @@
+
+* {outline:  1px solid red;}
+/*#cabecera{
+    position: fixed;
+    width: 1000px;
+    height: 300px;
+    top: 0%;
+    left: 22%;
+    background-color: powderblue;
+}
+
+#id{
+    text-align: center;
+}*/
+body{
+    
+}
+
+img{
+    margin-right: 16px;
+}
+header{
+    width: 960px;
+    margin: 0 auto;
+    display: flex;
+    background-color: powderblue;
+}
+
+#divCabecera{
+    margin: 20px 0px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
