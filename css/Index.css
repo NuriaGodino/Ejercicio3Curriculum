@@ -1,5 +1,5 @@
 
-* {outline:  1px solid red;}
+
 /*#cabecera{
     position: fixed;
     width: 1000px;
@@ -12,10 +12,6 @@
 #id{
     text-align: center;
 }*/
-body{
-    
-}
-
 img{
     margin-right: 16px;
 }
@@ -24,6 +20,10 @@ header,section{
     margin: 0 auto;
     
     background-color: powderblue;
+}
+
+progress{
+   margin-left: 8px; 
 }
 
 header{
@@ -50,4 +50,9 @@ aside{
 #experiencia{
     list-style-type: circle;
 }
+
+.skills{
+    display: flex;
+}
+
 
